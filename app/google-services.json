@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580998308854",
+    "firebase_url": "https://trynow-8d025-default-rtdb.firebaseio.com",
+    "project_id": "trynow-8d025",
+    "storage_bucket": "trynow-8d025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580998308854:android:38c5f5970e6cab0e581dd7",
+        "android_client_info": {
+          "package_name": "com.example.okbbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580998308854-340fim4fm4qh7l8lifep71dt2f8nv173.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxDx0Rr8QUwzVOczUvDnWS-3IQKZDfVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580998308854-340fim4fm4qh7l8lifep71dt2f8nv173.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
